@@ -48,6 +48,9 @@ Os seguintes tipos de teste serão aplicados ao sistema:
 - **Teste de Desempenho** – Medição da resposta do sistema (teste\_desempenho.py).
 - **Teste de Carga** – Avaliação sob alto volume de requisições (teste\_carga.py).
 - **Teste de Estresse** – Identificação do limite do sistema sob alta demanda (teste\_estresse.py).
+- Teste de Unidade – Verificação da funcionalidade de componentes individuais (teste_unitario.py).
+- Teste de Integração – Verificação da interação entre componentes do sistema (teste_integracao.py).
+  
 
 
 
